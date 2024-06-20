@@ -1,0 +1,10 @@
+.idea
+
+test_snapshots
+
+# Rust's output directory
+target
+
+# Local Soroban settings
+.soroban
+
